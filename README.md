@@ -1,3 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Alex 👋
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=WatsonGameStudios&layout=compact&theme=radical
+## 🌐 Website
+<div align="center">
+  https://watsongamestudios.github.io/Hobgoblin-Games-Website/
+</div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  https://github-readme-stats.vercel.app/api?username=WatsonGameStudios&show_icons=true&theme=radical
+  https://github-readme-stats.vercel.app/api/top-langs/?username=WatsonGameStudios&layout=compact&theme=radical
+</div>
+
