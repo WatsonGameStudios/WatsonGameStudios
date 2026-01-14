@@ -1,12 +1,9 @@
 # Hi there, I'm Alex 👋
 
-## 🌐 Website
-[My Website](https://watsongamestudios.github.io/Hobgoblin-Games-Website)
+## 🌐 Hobgoblin Games Website
+[Hobgoblin Games Website](https://watsongamestudios.github.io/Hobgoblin-Games-Website)
 
 
-
-## 📊 GitHub Stats
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=WatsonGameStudios&show_icons=true&theme=radical)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WatsonGameStudios&layout=compact&theme=radical)
-
+## 🎮 Check Out My Games On Steam :D
+[Crop Crusaders (STEAM)](https://store.steampowered.com/app/3257040/Crop_Crusaders/)
+[Alpine (STEAM)](https://store.steampowered.com/app/2928790/Alpine/)
