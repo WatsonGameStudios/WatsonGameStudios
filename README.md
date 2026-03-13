@@ -11,4 +11,4 @@
 
 
 ## 🎥 Check Out My Favourite Movies 
-[Alex's Favorite Movie's Website](https://watsongamestudios.github.io/movie-ratings)
+[Alex's Favorite Movie's Website](https://watsongamestudios.github.io/movie-rankings)
